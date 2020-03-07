@@ -1,5 +1,5 @@
 # DeadFastS3FileShare
-### Copy from one S3 to other faster
+### Copy from one AWS S3 to other faster
 
 #### Steps
 
